@@ -1,2 +1,2 @@
-# C-code
+# C++ code
 Sample C++ code
